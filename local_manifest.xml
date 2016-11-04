@@ -3,7 +3,7 @@
   
       <!-- Device Tree -->
       <project path="device/lge/w5" name="cyanogenmod/android_device_lge_w5" remote="github" revision="cm-13.0" />  
-      <project path="device/lge/msm8226-common" name="cyanogenmod/android_device_lge_msm8226-common" remote="github" revision="cm-13.0" />            
+      <project path="device/lge/msm8226-common" name="ortizp/android_device_lge_msm8226-common" remote="github" revision="cm-13.0" />            
       <project path="device/qcom/common" name="CyanogenMod/android_device_qcom_common" remote="github" revision="cm-13.0" />
       <project path="device/samsung/qcom-common" name="CyanogenMod/android_device_samsung_qcom-common" remote="github" revision="cm-13.0" />
 
@@ -11,7 +11,7 @@
       <project path="vendor/lge" name="TheMuppets/proprietary_vendor_lge" remote="github" revision="cm-13.0" />
 
       <!-- kernel -->
-      <project path="kernel/lge/msm8226" name="cyanogenmod/android_kernel_lge_msm8226" remote="github" revision="cm-13.0" />
+      <project path="kernel/lge/msm8226" name="ortizp/android_kernel_lge_msm8226" remote="github" revision="cm-13.0" />
 
       <!-- Extras -->
       <project path="external/stlport" name="CyanogenMod/android_external_stlport" remote="github" revision="cm-13.0" />
