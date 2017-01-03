@@ -2,13 +2,13 @@
    <manifest>
   
       <!-- Device Tree -->
-      <project path="device/lge/w5" name="cyanogenmod/android_device_lge_w5" remote="github" revision="cm-13.0" />  
-      <project path="device/lge/msm8226-common" name="ortizp/android_device_lge_msm8226-common" remote="github" revision="cm-13.0" />            
+      <project path="device/lge/w5" name="LineageOS/android_device_lge_w5" remote="github" revision="cm-14.1" />  
+      <project path="device/lge/msm8226-common" name="LineageOS/android_device_lge_msm8226-common" remote="github" revision="cm-14.1" />            
 
       <!-- vendor -->
-      <project path="vendor/lge" name="CarlosArriagaCM/android_vendor_lge_w5" remote="github" revision="master" />
+      <project path="vendor/lge" name="TheMuppets/proprietary_vendor_lge/tree/cm-14.1/w5" remote="github" revision="cm-14.1" />
 
       <!-- kernel -->
-      <project path="kernel/lge/msm8226" name="ortizp/android_kernel_lge_msm8226" remote="github" revision="cm-13.0" />
+      <project path="kernel/lge/msm8226" name="LineageOS/android_kernel_lge_msm8226" remote="github" revision="cm-14.1" />
       
 </manifest>
